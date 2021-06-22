@@ -1,0 +1,11 @@
+.PizzaForm {}
+
+.PizzaForm form {
+    margin-top: 10px;
+}
+
+.PizzaForm form label {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+}
